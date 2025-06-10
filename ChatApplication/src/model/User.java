@@ -12,4 +12,9 @@ public class User {
         throw new UnsupportedOperationException("Unimplemented method 'getEmail'");
     }
 
+    public boolean registerUser(String testUser, String mail) {
+    }
+
+    public Object listUsers() {
+    }
 }
